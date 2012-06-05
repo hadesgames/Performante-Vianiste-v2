@@ -7,6 +7,6 @@
       "socket.io": "",
       "hiredis": "",
       "redis": "",
-      "jade": ">= 0.0.1"
+      "coffeekup": ""
   }
 }
